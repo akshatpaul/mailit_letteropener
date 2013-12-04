@@ -26,6 +26,8 @@ gem 'mailcatcher'
 gem 'rack-mini-profiler'
 
 gem "letter_opener", :group => :development
+gem "factory_girl", "2.6.0"
+gem 'factory_girl_rails'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
